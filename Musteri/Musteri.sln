@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musteri", "Musteri\Musteri.csproj", "{A8567015-0F49-43CD-AF48-6F31DAA6B9E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "..\KampIntro\Metotlar\Metotlar.csproj", "{FA8F68C0-1C4E-4112-B4DE-3876F30DDBA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8567015-0F49-43CD-AF48-6F31DAA6B9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8567015-0F49-43CD-AF48-6F31DAA6B9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8567015-0F49-43CD-AF48-6F31DAA6B9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8567015-0F49-43CD-AF48-6F31DAA6B9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8F68C0-1C4E-4112-B4DE-3876F30DDBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8F68C0-1C4E-4112-B4DE-3876F30DDBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8F68C0-1C4E-4112-B4DE-3876F30DDBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8F68C0-1C4E-4112-B4DE-3876F30DDBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF7479D-F8F6-4EE1-9E05-37992A75C68E}
+	EndGlobalSection
+EndGlobal
